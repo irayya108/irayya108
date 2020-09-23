@@ -35,4 +35,5 @@ mailbox: Reach me out!
 
 #### Github Stats
 
-![imathad's github stats](https://github-readme-stats.vercel.app/api?username=imathad&count_private=true&theme=algolia&hide=contribs,prs)
+<!--![imathad's github stats](https://github-readme-stats.vercel.app/api?username=imathad&count_private=true&theme=algolia&hide=contribs,prs)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irayya108&show_icons=true" alt="irayya108" /></p>
