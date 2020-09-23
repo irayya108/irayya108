@@ -16,7 +16,7 @@ mailbox: Reach me out!
 - 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
 
 
-#### Top Technologies
+### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
