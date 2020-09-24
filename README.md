@@ -44,9 +44,6 @@ mailbox: Reach me out!
 
 </p>
 
-<a href="https://github.com/irayya108/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=irayya108&layout=compact&theme=radical" />
-</a>
 
 ### More:
 <!-- - paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
@@ -55,6 +52,10 @@ mailbox: Reach me out!
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=imathad.imathad)
+
+<a href="https://github.com/irayya108/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=irayya108&layout=compact&theme=radical" />
+</a>
 
 <!--#### Github Stats -->
 
