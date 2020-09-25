@@ -58,9 +58,9 @@ mailbox: Reach me out!
 </a>
 <br>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=irayya108&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
-</a>
+</a> -->
 
 
 
