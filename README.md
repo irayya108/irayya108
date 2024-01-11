@@ -11,9 +11,9 @@ mailbox: Reach me out!
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing APIs for IoT solutions and quick hacks.
-- 💼 &nbsp; Working as a Backend developer at WIZnet India Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
+- 🤔 &nbsp; Exploring new technologies and developing APIs using NodeJS, GraphQL and Rest.
+- 💼 &nbsp; Working as a NodeJs Backend developer.
+- 🌱 &nbsp; Learning more about AWS and Azure cloud.
 
 
 ### Top Technologies
