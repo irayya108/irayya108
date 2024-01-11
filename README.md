@@ -45,10 +45,10 @@ mailbox: Reach me out!
  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"> -->
  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> -->
 
-
-### More:
+<!-- Commented email -->
+<!-- ### More: -->
 <!-- - paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
-- email: imathad@yahoo.com
+<!-- - email: imathad@yahoo.com -->
 
 <!-- #### Profile Visits 
 
