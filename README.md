@@ -4,7 +4,7 @@ I'm Irayya Mathad a backend Developer. I Spend most of time coding and reading t
 
 mailbox: Reach me out!
 [![Github](https://img.shields.io/badge/-Github.irayya108-000?style=flat&logo=Github&logoColor=white)](https://github.com/irayya108)
-    [![Linkedin Badge](https://img.shields.io/badge/-Irayya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irayya-m-0128159b) 
+    <!-- [![Linkedin Badge](https://img.shields.io/badge/-Irayya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irayya-m-0128159b)  -->
   [![Mail Badge](https://img.shields.io/badge/-Irayya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imathad@yahoo.com)
 
 <!-- TODO: Add last video link -->
